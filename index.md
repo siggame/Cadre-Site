@@ -65,6 +65,7 @@ interact with the game via game objects native to that language's style and synt
 
 - [C++][Joueur.cpp]
 - [C#][Joueur.cs]
+- [Go][Joueur.go]
 - [Java][Joueur.java]
 - [JavaScript][Joueur.js] (via [Node.js])
 - [Lua][Joueur.lua]
