@@ -67,7 +67,7 @@ interact with the game via game objects native to that language's style and synt
 - [C#][Joueur.cs]
 - [Go][Joueur.go]
 - [Java][Joueur.java]
-- [JavaScript][Joueur.js] (via [Node.js])
+- [JavaScript][Joueur.js]
 - [Lua][Joueur.lua]
 - [Python 3][Joueur.py]
 - [Typescript][Joueur.ts]
@@ -105,6 +105,7 @@ tireless developers and competitors that game-on each semester.
 [Creer]: https://github.com/siggame/Creer
 [Joueur.cpp]: https://github.com/siggame/Joueur.cpp
 [Joueur.cs]: https://github.com/siggame/Joueur.cs
+[Joueur.go]: https://github.com/siggame/Joueur.go
 [Joueur.java]: https://github.com/siggame/Joueur.java
 [Joueur.js]: https://github.com/siggame/Joueur.js
 [Joueur.lua]: https://github.com/siggame/Joueur.lua
